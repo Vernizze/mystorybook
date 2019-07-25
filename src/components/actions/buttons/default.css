@@ -1,0 +1,12 @@
+.testbutton{
+    font-weight: bold;
+    width: 150px;
+    height: 40px;
+    background: #6c2a8c;
+    color: #fff;
+    border: none;
+    border-radius: 34px;
+    text-transform: uppercase;
+    font-size: 11px;
+    cursor: pointer;
+}
